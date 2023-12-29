@@ -1,0 +1,202 @@
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.staticwebassets.runtime.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.exe
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.deps.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.runtimeconfig.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfoInputs.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfo.cs
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cs
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.firstAppAsp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.build.firstAppAsp.props
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstAppAsp.props
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstAppAsp.props
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\bundle\firstAppAsp.styles.css
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\projectbundle\firstAppAsp.bundle.scp.css
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\refint\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.genruntimeconfig.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\ref\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.AssemblyReference.cache
+C:\Users\Mohamed Gamal\Music\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CopyComplete
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfoInputs.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfo.cs
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cs
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\refint\firstAppAsp.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.staticwebassets.runtime.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.exe
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.deps.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.runtimeconfig.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.firstAppAsp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.build.firstAppAsp.props
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstAppAsp.props
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstAppAsp.props
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\bundle\firstAppAsp.styles.css
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\projectbundle\firstAppAsp.bundle.scp.css
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CopyComplete
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.genruntimeconfig.cache
+C:\Users\Admin\Music\asp\firstAppAsp\firstAppAsp\obj\Debug\net6.0\ref\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\appsettings.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.staticwebassets.runtime.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.exe
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.deps.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.runtimeconfig.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.AssemblyReference.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfoInputs.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.AssemblyInfo.cs
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.RazorAssemblyInfo.cs
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.firstAppAsp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.build.firstAppAsp.props
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.firstAppAsp.props
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.firstAppAsp.props
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\bundle\firstAppAsp.styles.css
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\scopedcss\projectbundle\firstAppAsp.bundle.scp.css
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.csproj.CopyComplete
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\refint\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.pdb
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\firstAppAsp.genruntimeconfig.cache
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\obj\Debug\net6.0\ref\firstAppAsp.dll
+C:\Users\Mohamed Gamal\Downloads\firstAppAsp (1)\firstAppAsp\firstAppAsp\bin\Debug\net6.0\libman.json
